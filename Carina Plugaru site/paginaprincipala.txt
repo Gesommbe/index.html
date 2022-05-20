@@ -1,0 +1,11 @@
+<html>
+<head> <title> Pagina principala </title> </head>
+
+<body bgcolor=#FAEBD7 topmargin="20" leftmargin="30" rightmargin="30">
+<font color=#A49C41 size=5>  
+<h1> <center> ~ Pagină personală ~ </center> </h1>
+</font>
+
+</body>
+</html>
+

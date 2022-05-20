@@ -1,0 +1,23 @@
+<html> 
+<head> <title> coloana stanga </title> </head>
+<body bgcolor=#F0E68C>
+<font size=5> 
+<h2> <center> <b> <i> Cuprins </i> </b> </center> </h2>  </font>
+<br> <br> <br> <br> 
+
+<font size=6>
+<ul type="circle"> 
+<li> <a href="biografie.html" target="cadrulB"> Biografie </a> </li>
+<li> <a href="activitati.html" target="cadrulB"> Activitățile favorite </a> </li>
+<li> <a href="orarul.html" target="cadrulB"> Orarul lecțiilor </a> </li>
+
+</ul>
+
+<br> <br> 
+<center> <img src="flowers.jpg" width=250px>  </center> 
+
+
+
+
+</body>
+</html>

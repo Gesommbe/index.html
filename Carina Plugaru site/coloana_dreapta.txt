@@ -1,0 +1,6 @@
+<html>
+<head> <title> coloana dreapta </title> </head>
+<body> 
+
+</body>
+</html> 

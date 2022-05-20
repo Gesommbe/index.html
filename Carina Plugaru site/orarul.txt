@@ -1,0 +1,74 @@
+<html>
+<head> <title> orarul </title> </head>
+<body topmargin=30px background="fundal.jpg"> 
+<h1> <center> Orarul lecțiilor  </center> </h1> 
+<hr width=100% height=5px color=black>
+<br> <br> 
+
+<table width=100% border="3" bordercolor=black>
+<tr height=100px>  <th bgcolor=#FFFACD> <font size=6> Luni </th> 
+<th> <font size=6> Marți</th>
+<th bgcolor=#FFFACD><font size=6> Miercuri </th>
+<th> <font size=6>Joi </th>
+<th bgcolor=#FFFACD><font size=6> Vineri </th> </tr>
+<tr height=500px> <td><font size=6> <ol>
+<li> Educația fizică </li>
+<li> Biologia </li>
+<li> Matematica </li>
+<li> Limba română </li>
+<li> Limba română</li>
+<li> Geografia </li>
+<li> Educația economică </li>
+
+  </ol>  </td> 
+
+
+<td bgcolor=#FFFACD> <font size=6> <ol> 
+<li> Istoria </li>
+<li> Matematica</li>
+<li> Matematica </li>
+<li> Limba engleză</li>
+<li> Limba română</li>
+<li> Educația pentru societate </li>
+<li> Biologia </li>
+
+ </ol>    </td> 
+
+<td >  <font size=6><ol>
+<li> Istoria </li>
+<li> Fizica</li>
+<li> Biologia </li>
+<li> Chimia </li>
+<li>  Limba engleză</li>
+<li>  Limba italiană</li>
+<li> Informatica </li>
+ </ol>   </td> 
+
+<td bgcolor=#FFFACD><font size=6>  <ol>
+<li> --- </li>
+<li> Geografia </li>
+<li> Dezvoltarea personală </li>
+<li> Limba italiană </li>
+<li> Limba italiană</li>
+<li>  Fizica</li>
+<li> Fizica </li>
+  </ol>   </td>
+ 
+<td>  <font size=6><ol>
+<li> Informatica</li>
+<li> Matematica </li>
+<li> Matematica </li>
+<li> Educația fizică</li>
+<li> Limba română </li>
+<li> Chimia</li>
+  </ol>   </td> 
+
+
+
+
+
+</table>
+
+
+</body>
+</html>

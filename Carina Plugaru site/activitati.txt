@@ -1,0 +1,32 @@
+<html> 
+<head> <title> Interesele mele </title> </head>
+
+<body bgcolor=#FFDEAD topmargin=30px > 
+<h1> <center> Activitățile mele preferate </center> </h1>
+<hr width=100% height=5px color=#6A5ACD>
+<br> <br> <br> <br>
+
+<table> 
+<tr> <td rowspan="2"> <table border="3" bordercolor=white> <tr> <td bgcolor=#FFFAFA> <center> 
+<img src="carinaa.jpg" width=400px> </center> </td>   </tr>    </table> </td> 
+<td > <table border="3" bordercolor=white> <tr> <td bgcolor=#FFFAFA> <p> <font size=6> Începând cu clasa a 5-a, am început sa frecventez voleiul. La început
+nu am fost de acord, dar pe parcurs am început să îndrăgesc acest sport. 
+Am cunoscut și oameni noi, am trecut prin experiențe complet noi și interesante, astfel încât 
+am devenit și mai sportivă, mai disciplinată din acest punct de vedere. </p>
+<p> De aceea, cred că voleiul va rămâne mereu sportul meu preferat. </p> 
+</td> </tr> </table> 
+ </td> </tr> 
+
+<tr> <td> <p> <font size=6 color=#c37a18>  De asemenea, îmi place mult să desenez portrete, să fac ceva creativ, deoarece mereu asta îmi aduce
+plăcere pentru eul meu interior. Am decis să învăț de una singură tehnici de desen cu creionul simplu vara trecută,
+și pot spune că am făcut câteva progrese, de care mă simt mândră. Momentan, este doar un hobby, dar, cine știe, poate
+în viitor va face parte și dintr-o profesie pe care o voi avea. </font> </p>
+</td> </tr>
+
+</table>
+
+
+
+
+</body>
+</html> 
